@@ -1,0 +1,21 @@
+[theme]
+
+primaryColor="#309fa7"
+
+backgroundColor="#252d3d"
+
+secondaryBackgroundColor="#1A1F2B"
+
+textColor="#ffffffdc"
+
+font="sans serif"
+
+showSidebarBorder=true
+
+chartCategoricalColors=[
+"#308f5bde",
+"#2fcd7b",
+"#80db95",
+"#A5D6A7",
+"#C8E6C9"
+]
