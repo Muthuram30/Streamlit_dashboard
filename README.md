@@ -1,7 +1,9 @@
 # Agricultural Market Price Dashboard
 
 A Streamlit-based interactive dashboard for exploring agricultural commodity prices across Indian states using AGMARKNET market data.
+## Live Demo
 
+[Open Website](https://appdashboard-jtabfikst7jkp7kunt2kef.streamlit.app/)
 ## Features
 
 * State-wise and commodity-wise filtering
